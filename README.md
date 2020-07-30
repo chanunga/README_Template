@@ -1,7 +1,5 @@
 # LikeLion 8th Coding Session
-Cheet Sheet
-LikeLion 8th represented staff
-김도호
+멋쟁이사자처럼 8기 문찬웅
 
 ## 1학기 커리큘럼
 
