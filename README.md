@@ -5,7 +5,7 @@
 
 ### Github&배포
 
-1강 Github 기초 **[[요약](https://github.com/Do-ho/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_1.md)]**<br/>
+1강 Github 기초 **[[요약](https://github.com/chanunga/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/1%EA%B0%95%20Github%20%EA%B8%B0%EC%B4%88.md)]**<br/>
 2강 Netlify를 이용한 배포 **[[요약](https://github.com/Do-ho/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_2.md)]**<br/>
 3강 Github 협업 **[[요약](https://github.com/Do-ho/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_3.md)]**<br/>
 4강 EB 배포 1 **[[요약](https://github.com/Do-ho/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_4.md)]**<br/>
