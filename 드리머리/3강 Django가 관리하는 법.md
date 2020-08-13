@@ -21,8 +21,8 @@ Python 변수 & 문법을 HTML에서 쓸 수 있도록 Django에서 제공하는
 - Static : 웹 서비스를 위해, 개발자가 준비해두는 파일</br>
 - Media : 웹 서비스 이용자들이 업로드하는 파일</br>
 #### Static File 처리하기
-Static 폴더 생성 - App 폴더 내에 static 폴더 만들기 & 파일 생성</br>
-Settings.py (Static 설정)</br>
+1.Static 폴더 생성 - App 폴더 내에 static 폴더 만들기 & 파일 생성</br>
+2.Settings.py (Static 설정)</br>
    STATICFILES_DIRS=[Path(BASE_DIR, 'App 이름','static')] # Static File들이 들어있는 경로</br>
    STATIC_ROOT = Path(BASE_DIR, 'static') # Static File을 모을 디렉토리</br>
-Static 파일 모으기 - python manage.py collectstatic
+3.Static 파일 모으기 - python manage.py collectstatic
